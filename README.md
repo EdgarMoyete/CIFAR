@@ -15,14 +15,14 @@
 * accuracy = 77.25%
 
 ### Transfer_Learning.ipynb
-* lr = por defecto
-* epochs = 20
-* accuracy = 60.76%
+* lr = 1e-4
+* epochs = 200
+* accuracy = 61.66%
 
 ### Transfer_Learning_2.ipynb
-* lr = por defecto
-* epochs = 20
-* accuracy = 60.39%
+* lr = 1e-4
+* epochs = 200
+* accuracy = 61.03%
 
 ### Fine_Tuning.ipynb
 * lr = 1e-6
@@ -38,3 +38,8 @@
 * lr = 1e-4, 1e-6 
 * epochs = 100, 100
 * accuracy = 72.86%
+
+### FineTuning2_DataAugmentation.ipynb
+* lr = 1e-4, 1e-6 
+* epochs = 100, 100
+* accuracy = 69.63%
