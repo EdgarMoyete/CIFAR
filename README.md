@@ -12,7 +12,7 @@
 ### DataAugmentation.ipynb
 * lr = por defecto
 * epochs = 100
-* accuracy = 77.25%
+* accuracy = 77.27%
 
 ### Transfer_Learning.ipynb
 * lr = 1e-4
@@ -43,3 +43,6 @@
 * lr = 1e-4, 1e-6 
 * epochs = 100, 100
 * accuracy = 69.63%
+
+### DataAugmentationExplorar.ipynb
+* Ejemplo de aumento de datos
